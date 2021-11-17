@@ -9,15 +9,15 @@ In Proceedings of the 2021 ACM SIGSAC Conference on Computer and Communications 
 ## Directory structure
 ```{.sh}
 vip
-├── CMakeLists.txt		# CMake file for building VIP
-├── example				    # Example code
+├── CMakeLists.txt    # CMake file for building VIP
+├── example           # Example code
 ├── include           # Headers for VIP
-├── jemalloc			    # Jemalloc source code
-├── kernel				    # VIP Linux Kernel
-├── lib					      # VIP library code
-├── llvm-project		  # VIP compiler
-├── ptmalloc			    # Ptmalloc source code
-├── utils				      # Misc build tools
+├── jemalloc          # Jemalloc source code
+├── kernel            # VIP Linux Kernel
+├── lib               # VIP library code
+├── llvm-project      # VIP compiler
+├── ptmalloc          # Ptmalloc source code
+├── utils             # Misc build tools
 ```
 
 
